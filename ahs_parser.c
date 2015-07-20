@@ -118,7 +118,7 @@ ssize_t writeline(int sockd, const void *vptr, size_t n) {
     	return n;
 }
 
-void getline(char *line, int length) {
+void get_line(char *line, int length) {
     	char *linep = line;
     	size_t lenmax = length, len = lenmax;
     	int c;

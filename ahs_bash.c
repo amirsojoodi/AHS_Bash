@@ -63,7 +63,7 @@ int local_shell(){
 		command = (COMMAND *)malloc(sizeof(int) + sizeof(char **) + sizeof(char *) + sizeof(boolean));
 		printf("%s", BASH_LINE);
 		//gets(line);
-		getline(line, 100);
+		get_line(line, 100);
 		if(!strlen(line)){
 			//fputs("\033[A",stdout);//\033[A\033[2k
 			//rewind(stdout);

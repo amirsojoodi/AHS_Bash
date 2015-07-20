@@ -1,4 +1,3 @@
 ### AHS_shell
-A simple Ubuntu shell. Local and Remote.
-
+A simple Linux shell. Local and Remote.
 

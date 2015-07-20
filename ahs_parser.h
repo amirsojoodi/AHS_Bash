@@ -41,6 +41,6 @@ ssize_t readline(int, void *, size_t);
 
 ssize_t writeline(int, const void *, size_t);
 
-void getline(char *, int);
+void get_line(char *, int);
 
 #endif
