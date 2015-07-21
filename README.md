@@ -16,6 +16,7 @@ Runnig options:
 		to run the shell locally.
 
 The commands you can type inside the shell:
+
 	help -> to see this.
 	clear-> to clear the screen.
 	exit -> to exit from the shell.
